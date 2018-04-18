@@ -1,0 +1,22 @@
+/*Selector {
+	transition-property: value;
+	}*/
+body{
+	background-image: url(image1.jpg);
+	background-size: cover;
+}
+h2, p {
+	color: white;
+	text-align: center;
+	border: 5px solid rgba(177, 177, 177, 0.5);
+	cursor: pointer;
+
+}
+p{
+	color: blue;
+}
+li{
+	list-style: none;
+	display: inline-block;
+}
+
